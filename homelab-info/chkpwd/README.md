@@ -3,8 +3,8 @@
 
 |  Name	|  IP	|  RAM	|  vCPU	| Disk Size | CPU Model	|  OS 	|
 |---	|---	|---	|---	|---	|---	|---	|
-| bangalore     |  172.16.16.4  |  7 TB | 12 vCPU   |  250 GB   |  2x Xeon L5640            | ESXI 7.0 | 
-| octane 	    |  172.16.16.3	|  9 TB | 24 vCPU 	|  250 GB	|  AMD ThreadRipper 2970wx	| ESXI 7.0 |
+| bangalore     |  172.16.16.4  |  32 GB | 12 vCPU   |  7 TB   |  2x Xeon L5640            | ESXI 7.0 | 
+| octane 	    |  172.16.16.3	| 128 GB | 24 vCPU 	 |  9 TB   |  AMD ThreadRipper 2970wx	| ESXI 7.0 |
 
 ___
 
