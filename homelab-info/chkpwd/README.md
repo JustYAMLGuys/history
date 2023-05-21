@@ -90,18 +90,3 @@ ___
 </table>
 
 ___
-
-## Network Topology
-
-You can create your drawing using [Excalidraw](https://excalidraw.com/)
-
-![Excalidraw](img/Excalidraw.png)
-
-## Links to stores 
-
-- [RAM: Corsair Vengeance LPX DDR4 3200 MHz- Amazon](https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0143UM4TC/ref=sr_1_2?crid=1OANRA2Q2Y6NF&keywords=corsair+vengeance+16gb+ddr4&qid=1684180523&sprefix=corsair+ve%2Caps%2C813&sr=8-2)
-- [CASE: Sharkoon TG5](https://it.sharkoon.com/product/TG5)
-- [Mothrerboard - ASUS ROG STRIX B450-F GAMING ](https://www.amazon.it/B450-F-GAMING-Scheda-Supporto-Doppia/dp/B07F714FT7/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=VRAX2WCGXJKZ&keywords=ROG+strix+b450&qid=1684180721&sprefix=rog+strix+b450%2Caps%2C165&sr=8-1)
-- [CPU - AMD Ryzen 5 2600X](https://www.amazon.it/AMD-2600-6-Core-Wraith-Cooler/dp/B07B428V2L/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YDOS5S5JGTXK&keywords=amd%2Bryzen%2B5%2B2600x&qid=1684180752&sprefix=amd%2Bryzen%2B5%2B2600x%2Caps%2C145&sr=8-1&th=1)
-
-
