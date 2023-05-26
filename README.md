@@ -15,7 +15,7 @@ ___
 
 ## First email (6 May 2023)
 
-![first-email.png](/img/first-email.png)
+![first-email.png](img/first-email.png)
 
 Having to democratically decide the platform on which we would speak, we started talking via email :)
 
@@ -40,3 +40,9 @@ Created our official mail justyamlguys@gamil.com
 Created our aws account
 
 Created our Cloudflare account
+
+## Nameserver records created (26 May 2023)
+
+![checking-ns.png](img/checking-ns.png)
+
+Nameserver records have been changed on the domain registrar (Google) to make Cloudflare our public DNS.
