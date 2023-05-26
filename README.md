@@ -33,7 +33,7 @@ ___
 
 ___
 
-## A lot of new stuff! (27 May 2023)
+## Official email, AWS account and Cloudflare account! (27 May 2023)
 
 Created our official mail justyamlguys@gamil.com
 
