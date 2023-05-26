@@ -29,7 +29,7 @@ On 12 May 2023 at 12:17 The first message has been sent on our Discord channel!
 
 ___
 
-## Registered the domain justyamluys.com (21 May 2023)
+## Registered the domain justyamlguys.com (21 May 2023)
 
 ___
 
@@ -45,4 +45,4 @@ Created our Cloudflare account
 
 ![checking-ns.png](img/checking-ns.png)
 
-Nameserver records have been changed on the domain registrar (Google) to make Cloudflare our public DNS.
+Nameserver records have been changed on the domain registrar (Google) to make Cloudflare our public DNS for 'justyamlguys.com'.
