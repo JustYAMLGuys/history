@@ -25,7 +25,7 @@ ___
 
 With a majority of 3 votes, the name decided for the group is Just YAML Guys.
 
-On 12 May 2023 at 12:17 The first message has been sent on our Slack channel!
+On 12 May 2023 at 12:17 The first message has been sent on our Discord channel!
 
 ___
 
