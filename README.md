@@ -46,3 +46,8 @@ Created our Cloudflare account
 ![checking-ns.png](img/checking-ns.png)
 
 Nameserver records have been changed on the domain registrar (Google) to make Cloudflare our public DNS for 'justyamlguys.com'.
+___
+
+## Our headscale is finally up! (28 May 2023)
+
+
